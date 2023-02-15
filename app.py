@@ -3,6 +3,7 @@ import numpy as np
 import streamlit as st
 import pickle
 import math
+import sklearn
 
 
 team_list=['Chennai Super Kings', 'Delhi Capitals', 'Kings XI Punjab',
